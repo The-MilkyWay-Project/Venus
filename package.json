@@ -1,0 +1,19 @@
+{
+  "name": "venus",
+  "version": "1.0.0",
+  "description": "Tracking",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshDanielWalker/Venus.git"
+  },
+  "author": "Joshua Daniel Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshDanielWalker/Venus/issues"
+  },
+  "homepage": "https://github.com/JoshDanielWalker/Venus#readme"
+}
